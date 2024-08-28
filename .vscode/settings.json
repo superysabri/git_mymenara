@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bd110b16-c12c-40b3-9f4f-f7c28d71266f/resourceGroups/appmymenara_group/providers/Microsoft.Web/sites/appmymenara",
+    "appService.deploySubpath": "."
+}
